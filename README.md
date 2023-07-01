@@ -4,10 +4,9 @@ NotionAI的非官方PHP SDK
 Unofficial PHP SDK for NotionAI
 
 ## ⚙️ Format/格式
-This SDK defines a function, which is:
+This SDK defines a function, which is:notionai($Cookie,$spaceId,$Text)
 
-本SDK定义了一个函数,为:
-notionai($Cookie,$spaceId,$Text)
+本SDK定义了一个函数,为:notionai($Cookie,$spaceId,$Text)
 
 ## 🛠️ How to use/如何使用
 After pulling down NotionAI.php. The file example.php is an example
